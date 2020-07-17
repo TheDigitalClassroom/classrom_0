@@ -1,6 +1,4 @@
-# My Digital Class Room
-
-
+<h1>My Digital Class Room</h1>
 
 ## Current Situation 
 - COVID-19: Creating a paradigm shift in India’s Education System .The pandemic has forced universities/schools to bring their courses online.
