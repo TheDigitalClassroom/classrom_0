@@ -65,7 +65,6 @@
 #### Manage Announcement 
  <table>
  <th>View Announcement</th>
-  <th>Create Announcement</th>
  <tr>
    <td>
   
@@ -81,8 +80,7 @@
 
 #### Video Conferencing
  <table>
- <th>View Announcement</th>
-  <th>Create Announcement</th>
+ <th>Video Conferencing</th>
  <tr>
    <td>
   
