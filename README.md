@@ -136,7 +136,7 @@ The key for the Teacher is to have an ability to conduct online classes, track t
   <img src="./images/Study_material_-_Manage_-_Teacher.png" alt="">
   </td>
  <td>
-  <img src="./images/create_study.png" alt="">
+  <img src="./images/Create_Study_material.png" alt="">
   </td>
  
 </tr>
