@@ -144,7 +144,7 @@ Login Flow
   </td>
    <td>
   
-   ![](/images/Study_material_-_Manage_-_Teacher.png)
+   ![](/images/create_study.png)
    
   </td>
 </tr>
