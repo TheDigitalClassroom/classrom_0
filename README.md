@@ -44,6 +44,7 @@
 
  ### Principal User Interface
 
+#### Login Flow
 
  <table>
  <th>Principal Login</th>
@@ -56,6 +57,23 @@
   <td>
    
  ![](/images/Dashboard_-_Principal.png)
+   
+   </td>
+</tr>
+</table>
+
+#### Manage Announcement 
+ <table>
+ <th>View Announcement</th>
+  <th>Create Announcement</th>
+ <tr>
+   <td>
+  
+   ![](/images/View_Announcements_-_Principal.png)
+   
+  <td>
+   
+ ![](/images/Create_Announcement_-_Teacher.png)
    
    </td>
 </tr>
