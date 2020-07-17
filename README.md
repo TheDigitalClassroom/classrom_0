@@ -1,6 +1,7 @@
 # My Digital Class Room
 
 
+
 ## Current Situation 
 - COVID-19: Creating a paradigm shift in India’s Education System .The pandemic has forced universities/schools to bring their courses online.
 - This is just one step along the road to a new educational paradigm, however. We can expect a new model to emerge once COVID-19 has passed
@@ -38,4 +39,20 @@
 
 ## Design:
  ### Principal User Flow
-![Alt text](relative/https://github.com/TheDigitalClassroom/classrom_0/tree/master/Login_Page_-_Principal.png?raw=true "Title")
+   Princiapl Login
+ <table>
+ <th>Principal Login</th>
+  <th>Principal Dashboard</th>
+ <tr>
+   <td>
+  
+   ![](/images/Login_Page_-_Principal.png)
+   
+    </td>
+  <td>
+   
+ ![](/images/Dashboard_-_Principal.png)
+   
+   </td>
+</tr>
+</table>
