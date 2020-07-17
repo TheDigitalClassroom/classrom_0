@@ -39,7 +39,6 @@
 
 ## Design:
  ### Principal User Flow
-   Princiapl Login
  <table>
  <th>Principal Login</th>
   <th>Principal Dashboard</th>
@@ -48,7 +47,6 @@
   
    ![](/images/Login_Page_-_Principal.png)
    
-    </td>
   <td>
    
  ![](/images/Dashboard_-_Principal.png)
