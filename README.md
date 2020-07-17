@@ -38,4 +38,4 @@
 
 ## Design:
  ### Principal User Flow
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/https://github.com/TheDigitalClassroom/classrom_0/tree/master/Login_Page_-_Principal.png?raw=true "Title")
