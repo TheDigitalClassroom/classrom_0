@@ -17,30 +17,23 @@
 ##  Key Features for Teacher/CLass Tecaher
 
 -	Create and conduct classes
--	Video/Audion Conferencing
+-	Video/Audio Conferencing
 -	Manage assignments 
 -	Track attendance of students attending the class
--	Manage study material
--	Manage announcements for a class
+-	Manage/View study material
+- Offline mode 
 
-##  Key Features for Studnet
 
--	Join Classroom as per schedule
--	Submit Assignments
--	Access Study Material
--	Check Class Timetable
--	Apply leaves
--	View Announcement
-
-## Design:
- ### Principal Role
+## Design Flows:
+ ### Principal Design Flow
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
 ##  Key Features for Principal
--	Video/Audion Conferencing
-- Creating/Managing Announcements for the School
--	Tracking attendance of teachers, faculties (non-teaching staff) and students
--	One to One/Group chat with teachers and faculties
+-	Dashboard 
+- Create/Manage Announcements for the School
 -	Keep a track of any requests raised
+- Video/Audio Conferencing
+-	One to One/Group chat with teachers and faculties
+-	Tracking attendance of teachers, faculties (non-teaching staff) and students
 
  ### Principal User Interface
 
