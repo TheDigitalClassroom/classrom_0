@@ -128,10 +128,16 @@ Login Flow
 </table>
 Classroom
 <table>
+  <th>Schdule CLassroom</th>
  <th>View Classroom</th>
   <th>Ongoing Classroom Summary</th>
- <th>Schdule CLassroom</th>
+
  <tr>
+ <td>
+  
+   ![](/images/Schedule_Classroom_-_Teacher.png)
+   
+  </td>
    <td>
   
    ![](/images/XX_-_Student_Landing_Page.png)
@@ -142,11 +148,7 @@ Classroom
    ![](/images/Class_Summary_-_Teacher.png)
    
   </td>
- <td>
-  
-   ![](/images/Schedule_Classroom_-_Teacher.png)
-   
-  </td>
+ 
  
 </tr>
 </table>
@@ -172,17 +174,17 @@ Manage Study Material
 
 Manage Assignments
 <table>
- <th>View Study Material</th>
- <th>Create new Study Material</th>
+ <th>Manage Assignment</th>
+ <th>View Announcement</th>
  <tr>
    <td>
   
-   ![](/images/Study_material_-_Manage_-_Teacher.png)
+   ![](/images/create_Ass.png)
    
   </td>
  <td>
   
-   ![](/images/create_study.png)
+   ![](/images/View_Announcements_-_Teacher.png)
    
   </td>
  
