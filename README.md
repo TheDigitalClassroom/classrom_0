@@ -14,7 +14,7 @@
 - We have identified some most common problem areas for the roles like School Authority (Principal/Vice Principal), Class Teacher, Subject Teacher and Students and have worked upon them to propose a solution in the application
 
 
-##  Key Features for Teacher/CLass Tecaher
+##  Key Features 
 
 -	Create and conduct classes
 -	Video/Audio Conferencing
