@@ -24,8 +24,8 @@
 - Offline mode 
 
 
-## Design Flows:
- ### Principal Design Flow
+## User Interface Design:
+ ### Principal Design 
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
 ##  Key Features for Principal
 -	Dashboard 
@@ -92,6 +92,35 @@
  <td>
   
    ![](/images/Chat_Room_-_Principal.png)
+   
+  </td>
+</tr>
+</table>
+
+ ### Class Teacher Design 
+The key for the Teacher is to have an ability to conduct online classes, track the progress of each student etc. The primary functionalities available for them in the app are 
+
+##  Key Features for Class Teacher
+
+-	Create and conduct classes
+-	Video Conferencing
+-	Manage assignments 
+-	Track attendance of students attending the class
+-	Manage study material
+-	Manage announcements for a class
+
+<table>
+ <th>Login</th>
+ <th>Dashboard</th>
+ <tr>
+   <td>
+  
+   ![](/images/Login_Page_-_Teacher.png)
+   
+  </td>
+ <td>
+  
+   ![](/images/Dashboard_-_Teacher.png)
    
   </td>
 </tr>
