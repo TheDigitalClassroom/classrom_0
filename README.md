@@ -43,13 +43,10 @@
   <th>Principal Dashboard</th>
  <tr>
    <td>
-  
-   ![](/images/Login_Page_-_Principal.png)
+    <img src="./images/Login_Page_-_Principal.png" alt="">   
    </td>
   <td>
-   
- ![](/images/Dashboard_-_Principal.png)
-   
+   <img src="./images/Dashboard_-_Principal.png" alt="">     
    </td>
 </tr>
 </table>
@@ -61,18 +58,15 @@
 
  <tr>
    <td>
-  
-   ![](/images/View_Announcements_-_Principal.png)
+  <img src="./images/View_Announcements_-_Principal.png" alt="">     
+   
    </td>
   <td>
-   
- ![](/images/Create_Announcement_-_Teacher.png)
+   <img src="./images/Create_Announcement_-_Teacher.png" alt="">     
    
    </td>
      <td>
-   
- ![](/images/Approve_leaves_-_Teacher.png)
-   
+   <img src="./images/Approve_leaves_-_Teacher.png" alt=""> 
    </td>
 </tr>
 </table>
@@ -82,14 +76,10 @@
  <th>Principal Chat Room</th>
  <tr>
    <td>
-  
-   ![](/images/Video_conf.png)
-   
+  <img src="./images/Video_conf.png" alt="">
   </td>
  <td>
-  
-   ![](/images/Chat_Room_-_Principal.png)
-   
+  <img src="./images/Chat_Room_-_Principal.png" alt="">
   </td>
 </tr>
 </table>
@@ -113,14 +103,10 @@ The key for the Teacher is to have an ability to conduct online classes, track t
  <th>Dashboard</th>
  <tr>
    <td>
-  
-   ![](/images/Login_Page_-_Teacher.png)
-   
+    <img src="./images/Login_Page_-_Teacher.png" alt="">
   </td>
  <td>
-  
-   ![](/images/Dashboard_-_Teacher.png)
-   
+    <img src="./images/Dashboard_-_Teacher.png" alt="">
   </td>
 </tr>
 </table>
@@ -131,19 +117,13 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 
  <tr>
  <td>
-  
-   ![](/images/Schedule_Classroom_-_Teacher.png)
-   
+  <img src="./images/Schedule_Classroom_-_Teacher.png" alt="">
   </td>
    <td>
-  
-   ![](/images/XX_-_Student_Landing_Page.png)
-   
+  <img src="./images/XX_-_Student_Landing_Page.png" alt="">
   </td>
   <td>
-  
-   ![](/images/Class_Summary_-_Teacher.png)
-   
+  <img src="./images/Class_Summary_-_Teacher.png" alt="">
   </td>
  
  
