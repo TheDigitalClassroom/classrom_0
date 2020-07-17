@@ -84,7 +84,7 @@
  <tr>
    <td>
   
-   ![](/images/Video conf.png)
+   ![](/images/Video_conf.png)
    
   </td>
 
