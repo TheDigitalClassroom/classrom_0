@@ -13,16 +13,11 @@
 - We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes. 
 - We have identified some most common problem areas for the roles like School Authority (Principal/Vice Principal), Class Teacher, Subject Teacher and Students and have worked upon them to propose a solution in the application
 
-##  Key Features for Principal
--	Creating/Managing Announcements for the School
--	Tracking attendance of teachers, faculties (non-teaching staff) and students
--	One to One/Group chat with teachers and faculties
--	Keep a track of any requests raised
 
 ##  Key Features for Teacher/CLass Tecaher
 
 -	Create and conduct classes
--	Video Conferencing
+-	Video/Audion Conferencing
 -	Manage assignments 
 -	Track attendance of students attending the class
 -	Manage study material
@@ -38,7 +33,18 @@
 -	View Announcement
 
 ## Design:
- ### Principal User Flow
+ ### Principal Role
+ The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
+##  Key Features for Principal
+-	Video/Audion Conferencing
+- Creating/Managing Announcements for the School
+-	Tracking attendance of teachers, faculties (non-teaching staff) and students
+-	One to One/Group chat with teachers and faculties
+-	Keep a track of any requests raised
+
+ ### Principal User Interface
+
+
  <table>
  <th>Principal Login</th>
   <th>Principal Dashboard</th>
