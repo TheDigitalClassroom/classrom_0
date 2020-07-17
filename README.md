@@ -135,14 +135,10 @@ The key for the Teacher is to have an ability to conduct online classes, track t
  <th>Create new Study Material</th>
  <tr>
    <td>
-  
-   ![](/images/Study_material_-_Manage_-_Teacher.png)
-   
+  <img src="./images/Study_material_-_Manage_-_Teacher.png" alt="">
   </td>
  <td>
-  
-   ![](/images/create_study.png)
-   
+  <img src="./images/create_study.png" alt="">
   </td>
  
 </tr>
@@ -154,19 +150,13 @@ The key for the Teacher is to have an ability to conduct online classes, track t
  <th>Time Table</th>
  <tr>
    <td>
-  
-   ![](/images/create_Ass.png)
-   
+  <img src="./images/create_Ass.png" alt="">   
   </td>
  <td>
-  
-   ![](/images/View_Announcements_-_Teacher.png)
-   
+  <img src="./images/View_Announcements_-_Teacher.png" alt="">  
   </td>
  <td>
-  
-   ![](/images/View_Timetable_-_Teacher.png)
-   
+  <img src="./images/View_Timetable_-_Teacher.png" alt="">
   </td>
 </tr>
 </table>
@@ -176,14 +166,10 @@ The key for the Teacher is to have an ability to conduct online classes, track t
  <th>Teacher Chat Room</th>
  <tr>
    <td>
-  
-   ![](/images/Video_conf.png)
-   
+  <img src="./images/Video_conf.png" alt="">
   </td>
  <td>
-  
-   ![](/images/XX_-_Public_Chat_-_Teacher.png)
-   
+  <img src="./images/XX_-_Public_Chat_-_Teacher.png" alt="">  
   </td>
 </tr>
 </table>
@@ -206,14 +192,10 @@ The key for the Students is to have an ability to join classes. The primary func
  <th>Dashboard</th>
  <tr>
    <td>
-  
-   ![](/images/Login_Page_-_Student.png)
-   
+  <img src="./images/Login_Page_-_Student.png" alt="">
   </td>
  <td>
-  
-   ![](/images/Dashboard_-_Student.png)
-   
+  <img src="./images/Dashboard_-_Student.png" alt="">
   </td>
 </tr>
 </table>
@@ -225,19 +207,13 @@ The key for the Students is to have an ability to join classes. The primary func
  <th>Submit and Compelte Assignment</th>
  <tr>
    <td>
-  
-   ![](/images/Studnet_inbox.png)
-   
+  <img src="./images/Studnet_inbox.png" alt="">
   </td>
  <td>
-  
-   ![](/images/Assignments_-_View_-_Student.png)
-   
+  <img src="./images/Assignments_-_View_-_Student.png" alt="">
   </td>
    <td>
-  
-   ![](/images/Assignments_-_Submit_-_Student.png)
-   
+  <img src="./images/Assignments_-_Submit_-_Student.png" alt="">
   </td>
 </tr>
 </table>
@@ -249,19 +225,13 @@ The key for the Students is to have an ability to join classes. The primary func
  <th>Teacher & Student Priavet Chatroom</th>
  <tr>
    <td>
-  
-   ![](/images/Video_conf.png)
-   
+  <img src="./images/Video_conf.png" alt="">
   </td>
 <td>
-  
-   ![](/images/Student_List_-_Teacher.png)
-   
+  <img src="./images/Student_List_-_Teacher.png" alt="">
   </td>
    <td>
-  
-   ![](/images/Chat_Room_-_Student.png)
-   
+  <img src="./images/Chat_Room_-_Student.png" alt="">
   </td>
 </tr>
 </table>
