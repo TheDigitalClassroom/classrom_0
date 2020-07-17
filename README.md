@@ -25,9 +25,9 @@
 
 
 ## User Interface Design:
- ### Principal Design 
+ ### Principal Design FLow 
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
-##  Key Features for Principal
+####  Key Features for Principal
 -	Dashboard 
 - Create/Manage Announcements for the School
 -	Keep a track of any requests raised
@@ -35,9 +35,8 @@
 -	One to One/Group chat with teachers and faculties
 -	Tracking attendance of teachers, faculties (non-teaching staff) and students
 
- ### Principal User Interface
+ #### Principal User Interface
 
-#### Login Flow
 
  <table>
  <th>Principal Login</th>
@@ -55,7 +54,6 @@
 </tr>
 </table>
 
-#### Manage Announcement 
  <table>
  <th>View Announcement</th>
  <th>Create new Announcement</th>
@@ -79,7 +77,6 @@
 </tr>
 </table>
 
-#### Video Conferencing
  <table>
  <th>Video Conferencing</th>
  <th>Principal Chat Room</th>
@@ -100,7 +97,7 @@
  ### Class Teacher Design 
 The key for the Teacher is to have an ability to conduct online classes, track the progress of each student etc. The primary functionalities available for them in the app are 
 
-##  Key Features for Class Teacher
+####  Key Features for Class Teacher
 
 -	Create and conduct classes
 -	Video Conferencing
@@ -109,7 +106,8 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 -	Manage study material
 -	Manage announcements for a class
 
-Login Flow
+ #### Class Teacher User Interface
+
 <table>
  <th>Login</th>
  <th>Dashboard</th>
@@ -126,7 +124,6 @@ Login Flow
   </td>
 </tr>
 </table>
-Classroom
 <table>
   <th>Schdule CLassroom</th>
  <th>View Classroom</th>
@@ -153,7 +150,6 @@ Classroom
 </tr>
 </table>
 
-Manage Study Material
 <table>
  <th>View Study Material</th>
  <th>Create new Study Material</th>
@@ -172,7 +168,6 @@ Manage Study Material
 </tr>
 </table>
 
-Manage Assignments
 <table>
  <th>Manage Assignment</th>
  <th>View Announcement</th>
@@ -196,7 +191,6 @@ Manage Assignments
 </tr>
 </table>
 
-#### Video Conferencing
  <table>
  <th>Video Conferencing</th>
  <th>Teacher Chat Room</th>
@@ -214,9 +208,9 @@ Manage Assignments
 </tr>
 </table>
 
- ### Student Design 
+ ### Student Design Flow
 The key for the Students is to have an ability to join classes. The primary functionalities available for them in the app are-
-##  Key Features for Class Teacher
+####  Key Features for Student
 
 -	Join Classroom as per schedule
 -	Submit Assignments
@@ -225,8 +219,7 @@ The key for the Students is to have an ability to join classes. The primary func
 -	Apply leaves
 -	View Announcement
 
- ### Student User Interface
- #### Login & Dashboard
+ #### Student User Interface
 
 <table>
  <th>Login</th>
@@ -245,7 +238,6 @@ The key for the Students is to have an ability to join classes. The primary func
 </tr>
 </table>
  
- #### Classroom
 
 <table>
  <th>Studnet Inbox</th>
@@ -270,12 +262,11 @@ The key for the Students is to have an ability to join classes. The primary func
 </tr>
 </table>
 
-#### Student Chatroom
 
 <table>
- <th>Video Conf/th>
- <th>Chatroom</th>
- <th>One to one chat </th>
+ <th>Video Conf</th>
+ <th>Chatroom List</th>
+ <th>Teacher & Student Priavet Chatroom</th>
  <tr>
    <td>
   
