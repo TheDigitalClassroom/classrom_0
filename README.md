@@ -176,6 +176,7 @@ Manage Assignments
 <table>
  <th>Manage Assignment</th>
  <th>View Announcement</th>
+ <th>Time Table</th>
  <tr>
    <td>
   
@@ -187,7 +188,11 @@ Manage Assignments
    ![](/images/View_Announcements_-_Teacher.png)
    
   </td>
- 
+ <td>
+  
+   ![](/images/View_Timetable_-_Teacher.png)
+   
+  </td>
 </tr>
 </table>
 
@@ -204,6 +209,87 @@ Manage Assignments
  <td>
   
    ![](/images/XX_-_Public_Chat_-_Teacher.png)
+   
+  </td>
+</tr>
+</table>
+
+ ### Student Design 
+The key for the Students is to have an ability to join classes. The primary functionalities available for them in the app are-
+##  Key Features for Class Teacher
+
+-	Join Classroom as per schedule
+-	Submit Assignments
+- Access Study Material
+-	Check Class Timetable
+-	Apply leaves
+-	View Announcement
+
+ ### Student User Interface
+ #### Login & Dashboard
+
+<table>
+ <th>Login</th>
+ <th>Dashboard</th>
+ <tr>
+   <td>
+  
+   ![](/images/Login_Page_-_Student.png)
+   
+  </td>
+ <td>
+  
+   ![](/images/Dashboard_-_Student.png)
+   
+  </td>
+</tr>
+</table>
+ 
+ #### Classroom
+
+<table>
+ <th>Studnet Inbox</th>
+ <th>View Assignment</th>
+ <th>Submit and Compelte Assignment</th>
+ <tr>
+   <td>
+  
+   ![](/images/Studnet_inbox.png)
+   
+  </td>
+ <td>
+  
+   ![](/images/Assignments_-_View_-_Student.png)
+   
+  </td>
+   <td>
+  
+   ![](/images/Assignments_-_Submit_-_Student.png)
+   
+  </td>
+</tr>
+</table>
+
+#### Student Chatroom
+
+<table>
+ <th>Video Conf/th>
+ <th>Chatroom</th>
+ <th>One to one chat </th>
+ <tr>
+   <td>
+  
+   ![](/images/Video_conf.png)
+   
+  </td>
+<td>
+  
+   ![](/images/Student_List_-_Teacher.png)
+   
+  </td>
+   <td>
+  
+   ![](/images/Chat_Room_-_Student.png)
    
   </td>
 </tr>
