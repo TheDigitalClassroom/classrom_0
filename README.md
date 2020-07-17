@@ -109,6 +109,7 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 -	Manage study material
 -	Manage announcements for a class
 
+Login Flow
 <table>
  <th>Login</th>
  <th>Dashboard</th>
@@ -121,6 +122,29 @@ The key for the Teacher is to have an ability to conduct online classes, track t
  <td>
   
    ![](/images/Dashboard_-_Teacher.png)
+   
+  </td>
+</tr>
+</table>
+Login Flow
+<table>
+ <th>Create CLassroom</th>
+ <th>Manage Study Material</th>
+ <th>Publish Study Material</th>
+ <tr>
+   <td>
+  
+   ![](/images/Schedule_Classroom_-_Teacher.png)
+   
+  </td>
+ <td>
+  
+   ![](/images/Study_material_-_Manage_-_Teacher.png)
+   
+  </td>
+   <td>
+  
+   ![](/images/Study_material_-_Manage_-_Teacher.png)
    
   </td>
 </tr>
