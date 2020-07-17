@@ -190,3 +190,21 @@ Manage Assignments
  
 </tr>
 </table>
+
+#### Video Conferencing
+ <table>
+ <th>Video Conferencing</th>
+ <th>Teacher Chat Room</th>
+ <tr>
+   <td>
+  
+   ![](/images/Video_conf.png)
+   
+  </td>
+ <td>
+  
+   ![](/images/XX_-_Public_Chat_-_Teacher.png)
+   
+  </td>
+</tr>
+</table>
