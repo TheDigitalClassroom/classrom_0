@@ -79,19 +79,16 @@
 </tr>
 </table>
 
-#### Manage Announcement 
+#### Video Conferencing
  <table>
  <th>View Announcement</th>
   <th>Create Announcement</th>
  <tr>
    <td>
   
-   ![](/images/View_Announcements_-_Principal.png)
+   ![](/images/Video conf.png)
    
-  <td>
-   
- ![](/images/Create_Announcement_-_Teacher.png)
-   
-   </td>
+  </td>
+
 </tr>
 </table>
