@@ -53,7 +53,7 @@
    <td>
   
    ![](/images/Login_Page_-_Principal.png)
-   
+   </td>
   <td>
    
  ![](/images/Dashboard_-_Principal.png)
@@ -65,11 +65,12 @@
 #### Manage Announcement 
  <table>
  <th>View Announcement</th>
+ <th>Create new Announcement</th>
  <tr>
    <td>
   
    ![](/images/View_Announcements_-_Principal.png)
-   
+   </td>
   <td>
    
  ![](/images/Create_Announcement_-_Teacher.png)
@@ -81,12 +82,17 @@
 #### Video Conferencing
  <table>
  <th>Video Conferencing</th>
+ <th>Principal Chat Room</th>
  <tr>
    <td>
   
    ![](/images/Video_conf.png)
    
   </td>
-
+ <td>
+  
+   ![](/images/Chat_Room_-_Principal.png)
+   
+  </td>
 </tr>
 </table>
