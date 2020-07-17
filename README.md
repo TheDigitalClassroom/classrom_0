@@ -66,6 +66,8 @@
  <table>
  <th>View Announcement</th>
  <th>Create new Announcement</th>
+  <th>Approve Pending Reequest</th>
+
  <tr>
    <td>
   
@@ -74,6 +76,11 @@
   <td>
    
  ![](/images/Create_Announcement_-_Teacher.png)
+   
+   </td>
+     <td>
+   
+ ![](/images/Approve_leaves_-_Teacher.png)
    
    </td>
 </tr>
