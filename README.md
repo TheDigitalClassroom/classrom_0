@@ -12,8 +12,8 @@
 
 ## Case Study
 <ul>
- <li> We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes.</li>
-<li>This has helped us to identify some of the most common issues faced by School Admins (Principal/Vice Principal), Class Teacher, Subject Teacher and Students as follows.</li>
+ <li> We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes. </li>
+<li>This has helped us to identify some of the most common issues faced by School Admins (Principal/Vice Principal), Class Teacher, Subject Teacher and Students as follows. </li>
 <li><ul>
  <li>Managing attendance and student availability</li>
  <li>Managing assignments, tasks and school work for students</li>
@@ -42,9 +42,9 @@
  <li>Consistent user experience across Android & IOS mobile platforms</li>
 </ul>
 
-<h3> Principal Design FLow </h3>
+<h3> Principal Design Flow </h3>
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
-<h4>  Key Features for Principal </h4>
+<h4> Key Features for Principal </h4>
 <ul>
  <li>Dashboard</li>
  <li>Create/Manage Announcements for the School</li>
@@ -74,7 +74,7 @@
  <table>
  <th>View Announcement</th>
  <th>Create new Announcement</th>
-  <th>Approve Pending Reequest</th>
+  <th>Approve Pending Request</th>
 
  <tr>
    <td>
@@ -133,7 +133,7 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 </tr>
 </table>
 <table>
-  <th>Schdule CLassroom</th>
+  <th>Schedule Classroom</th>
  <th>View Classroom</th>
   <th>Ongoing Classroom Summary</th>
 
@@ -227,9 +227,9 @@ The key for the Students is to have an ability to join classes. The primary func
  
 
 <table>
- <th>Studnet Inbox</th>
+ <th>Student Inbox</th>
  <th>View Assignment</th>
- <th>Submit and Compelte Assignment</th>
+ <th>Submit and Complete Assignment</th>
  <tr>
    <td>
   <img src="./images/Studnet_inbox.png" alt="">
@@ -247,7 +247,7 @@ The key for the Students is to have an ability to join classes. The primary func
 <table>
  <th>Video Conf</th>
  <th>Chatroom List</th>
- <th>Teacher & Student Priavet Chatroom</th>
+ <th>Teacher & Student Private Chatroom</th>
  <tr>
    <td>
   <img src="./images/Video_conf.png" alt="">
