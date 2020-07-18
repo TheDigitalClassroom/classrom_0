@@ -1,5 +1,8 @@
 <h1>My Digital Class Room</h1>
 
+## Overview
+"My Classroom" is a software solution to simplify the complexities of managing the daily activities in an educational institues like schools, collages. This app is one stop solution for teachers, school admins to work together with students to provide seemless learning experience. "My Classroom" provides various features to manage daily activities like attendence, assignments, comunication/leaning assitance etc all accessible using common dashboard in the app. Considering internet availibility challenges accross India the app can be used in offline and online mode.
+
 ## Current Situation 
 - COVID-19: Creating a paradigm shift in India’s Education System .The pandemic has forced universities/schools to bring their courses online.
 - This is just one step along the road to a new educational paradigm, however. We can expect a new model to emerge once COVID-19 has passed
