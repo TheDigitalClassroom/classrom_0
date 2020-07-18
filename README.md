@@ -26,13 +26,26 @@
 
 ##  Key Features 
 
--	Create and conduct classes
+-	Attendance and Progress tracking
+-	Publish and track Quiz / Assignments 
+-	Schedule and Conduct classes
 -	Video/Audio Conferencing
--	Manage assignments 
--	Track attendance of students attending the class
--	Manage/View study material
+-	Study material management
 - Offline mode 
+- Push Notifications
 
+## Security features
+
+- Two Factor Authentication
+- HTTPS REST end points
+- Data Encryption at REST
+- Data Integration and Validation Checks
+
+## Supported Platform
+
+- Android
+- IOS
+- Web
 
 ## UI Design
 <ul>
