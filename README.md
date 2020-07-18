@@ -44,7 +44,7 @@
 
 <h3> Principal Design FLow </h3>
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
-<h5>  Key Features for Principal </h5>
+<h4>  Key Features for Principal </h4>
 <ul>
  <li>Dashboard</li>
  <li>Create/Manage Announcements for the School</li>
@@ -104,19 +104,21 @@
 </tr>
 </table>
 
- ### Class Teacher Design 
+<h3>Class Teacher Design </h3>
 The key for the Teacher is to have an ability to conduct online classes, track the progress of each student etc. The primary functionalities available for them in the app are 
 
-####  Key Features for Class Teacher
+<h4>Key Features for Class Teacher</h4>
 
--	Create and conduct classes
--	Video Conferencing
--	Manage assignments 
--	Track attendance of students attending the class
--	Manage study material
--	Manage announcements for a class
+<ul>
+<li>Create and conduct classes</li>
+<li>Video Conferencing</li>
+<li>Manage assignments</li>
+<li>Track attendance of students attending the class</li>
+<li>Manage study material</li>
+<li>Manage announcements for a class</li>
+</ul>
 
- #### Class Teacher User Interface
+ <h4>Class Teacher User Interface</h4>
 
 <table>
  <th>Login</th>
@@ -194,18 +196,21 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 </tr>
 </table>
 
- ### Student Design Flow
+<h3>Student Design Flow</h3>
 The key for the Students is to have an ability to join classes. The primary functionalities available for them in the app are-
-####  Key Features for Student
 
--	Join Classroom as per schedule
--	Submit Assignments
-- Access Study Material
--	Check Class Timetable
--	Apply leaves
--	View Announcement
+<h4>Key Features for Student</h4>
 
- #### Student User Interface
+<ul>
+<li>Join Classroom as per schedule</li>
+<li>Submit Assignments</li>
+<li>Access Study Material</li>
+<li>Check Class Timetable</li>
+<li>Apply leaves</li>
+<li>View Announcement</li>
+</ul>
+
+<h4>Student User Interface</h4>
 
 <table>
  <th>Login</th>
