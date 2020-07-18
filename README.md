@@ -42,10 +42,22 @@
 - Data Integration and Validation Checks
 
 ## Supported Platform
-
-- Android
-- IOS
-- Web
+<ul>
+ <li> OS </li>
+ <ul>
+ <li>
+  Android 6+
+ </li>
+ <li> IOS 9+
+ </li>
+ </ul>
+ <li> Web </li>
+ <ul>
+  <li>Chrome 51+</li>
+  <li>Microsoft Edge</li>
+  <li>Firefox 51+</li>
+ </ul>
+ </ul>
 
 ## UI Design
 <ul>
