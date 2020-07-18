@@ -41,7 +41,7 @@
  <li>Consistent user experience across Android & IOS mobile platforms</li>
 </ul>
 
-<h3> Principal Design Flow </h3>
+<h3 id="principal-design-flow"> Principal Design Flow </h3>
  The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
 <h4> Key Features for Principal </h4>
 <ul>
@@ -103,10 +103,10 @@
 </tr>
 </table>
 
-<h3>Class Teacher Design </h3>
+<h3 id="teacher-design-flow">Teacher Design Flow</h3>
 The key for the Teacher is to have an ability to conduct online classes, track the progress of each student etc. The primary functionalities available for them in the app are 
 
-<h4>Key Features for Class Teacher</h4>
+<h4>Key Features for Teacher</h4>
 
 <ul>
 <li>Create and conduct classes</li>
@@ -117,7 +117,7 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 <li>Manage announcements for a class</li>
 </ul>
 
- <h4>Class Teacher User Interface</h4>
+ <h4>Teacher User Interface</h4>
 
 <table>
  <th>Login</th>
@@ -195,7 +195,7 @@ The key for the Teacher is to have an ability to conduct online classes, track t
 </tr>
 </table>
 
-<h3>Student Design Flow</h3>
+<h3 id="student-design-flow">Student Design Flow</h3>
 The key for the Students is to have an ability to join classes. The primary functionalities available for them in the app are-
 
 <h4>Key Features for Student</h4>
