@@ -35,18 +35,27 @@
 - Offline mode 
 
 
-## User Interface Design:
- ### Principal Design FLow 
- The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
-####  Key Features for Principal
--	Dashboard 
-- Create/Manage Announcements for the School
--	Keep a track of any requests raised
-- Video/Audio Conferencing
--	One to One/Group chat with teachers and faculties
--	Tracking attendance of teachers, faculties (non-teaching staff) and students
+## UI Design
+<ul>
+ <li>Simplified user interface for all category of users</li>
+ <li>Easy access of information with minimum clicks</li>
+ <li>Consistent user experience across Android & IOS mobile platforms</li>
+</ul>
 
- #### Principal User Interface
+<h3> Principal Design FLow </h3>
+ The key for the School Authority or Principal is to have an overall view of all the activities taking place in the school. The primary functionalities available for them in the app are –
+<h5>  Key Features for Principal </h5>
+<ul>
+ <li>Dashboard</li>
+ <li>Create/Manage Announcements for the School</li>
+ <li>Keep a track of any requests raised</li>
+ <li>Video/Audio Conferencing</li>
+ <li>One to One/Group chat with teachers and faculties</li>
+ <li>Tracking attendance of teachers, faculties (non-teaching staff) and students</li>
+ </ul>
+
+
+ <h4>Principal User Interface</h4>
 
 
  <table>
