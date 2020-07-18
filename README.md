@@ -1,18 +1,23 @@
-<h1>My Digital Class Room</h1>
+<h1>My Class Room</h1>
 
 ## Overview
-"My Classroom" is a software solution to simplify the complexities of managing the daily activities in an educational institues like schools, collages. This app is one stop solution for teachers, school admins to work together with students to provide seemless learning experience. "My Classroom" provides various features to manage daily activities like attendence, assignments, comunication/leaning assitance etc all accessible using common dashboard in the app. Considering internet availibility challenges accross India the app can be used in offline and online mode.
+<b>"My Classroom"</b> is a software solution to simplify the complexities of managing the daily activities in an educational institute like schools, collages. This app is one stop solution for teachers, school admins to work together with students to provide seamless learning experience. "My Classroom" provides various features to manage daily activities like attendance, assignments, communication/leaning assistance etc. all accessible using common dashboard in the app. Considering internet availability challenges across India the app can be used in offline and online mode.
 
-## Current Situation 
-- COVID-19: Creating a paradigm shift in India’s Education System .The pandemic has forced universities/schools to bring their courses online.
-- This is just one step along the road to a new educational paradigm, however. We can expect a new model to emerge once COVID-19 has passed
-- The pandemic that has shuttered economies around the world has also battered education systems in developing and developed countries.
-- Some 1.5 billion students — close to 90% of all primary, secondary and tertiary learners in the world — are no longer able to physically go to school.
-- The impact has been dramatic and transformative as educators scramble to put in place workable short-term solutions for remote teaching and learning, particularly in emerging markets, where students and schools face additional challenges related to financing and available infrastructure.
+## Today’s challenges 
+- COVID-19 has created a paradigm shift in India’s Education System which has forced universities/schools to bring their courses online.
+- Most of the primary, secondary and tertiary learners in the India — are no longer able to physically go to school.
+- The impact has been dramatic and transformative as educators scramble to put in place workable solutions for remote teaching and learning. This has been challenging considering that students and schools now face additional difficulties related to financing and availability of digital resources.
+- We feel this is the first step along the road to a new education system. We can expect a new model to emerge once COVID-19 has passed.
 
-##  Research and Analysis
-- We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes. 
-- We have identified some most common problem areas for the roles like School Authority (Principal/Vice Principal), Class Teacher, Subject Teacher and Students and have worked upon them to propose a solution in the application
+
+## Case Study
+- We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes.
+- This has helped us to identify some of the most common issues faced by School Admins (Principal/Vice Principal), Class Teacher, Subject Teacher and Students as follows.
+-- Managing attendance and student availability
+-- Managing assignments, tasks and school work for students
+-- Commination hurdles 
+-- Use of multiple platforms / apps to convey the right information
+-- Issues in accessing these platforms due to limited internet availability
 
 
 ##  Key Features 
