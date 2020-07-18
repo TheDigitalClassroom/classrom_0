@@ -1,7 +1,7 @@
 <h1>My Class Room</h1>
 
 ## Overview
-<b>"My Classroom"</b> is a software solution to simplify the complexities of managing the daily activities in an educational institute like schools, collages. This app is one stop solution for teachers, school admins to work together with students to provide seamless learning experience. "My Classroom" provides various features to manage daily activities like attendance, assignments, communication/leaning assistance etc. all accessible using common dashboard in the app. Considering internet availability challenges across India the app can be used in offline and online mode.
+<b>"My Classroom"</b> is a software solution to simplify the complexities of managing the daily activities in an educational institute like schools, colleges. This app is one stop solution for teachers, school admins to work together with students to provide seamless learning experience. "My Classroom" provides various features to manage daily activities like attendance, assignments, communication/leaning assistance etc. all accessible using common dashboard in the app. Considering internet availability challenges across India the app can be used in offline and online mode.
 
 ## Today’s challenges 
 - COVID-19 has created a paradigm shift in India’s Education System which has forced universities/schools to bring their courses online.
@@ -11,13 +11,18 @@
 
 
 ## Case Study
-- We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes.
-- This has helped us to identify some of the most common issues faced by School Admins (Principal/Vice Principal), Class Teacher, Subject Teacher and Students as follows.
--- Managing attendance and student availability
--- Managing assignments, tasks and school work for students
--- Commination hurdles 
--- Use of multiple platforms / apps to convey the right information
--- Issues in accessing these platforms due to limited internet availability
+<ul>
+ <li> We conducted the survey with various schools to understand the day to day challenges that they are facing while adapting the new norm of E-learning and conducting the online classes.</li>
+<li>This has helped us to identify some of the most common issues faced by School Admins (Principal/Vice Principal), Class Teacher, Subject Teacher and Students as follows.</li>
+<li><ul>
+ <li>Managing attendance and student availability</li>
+ <li>Managing assignments, tasks and school work for students</li>
+ <li>Commination hurdles </li>
+ <li>Use of multiple platforms / apps to convey the right information</li>
+ <li>Issues in accessing these platforms due to limited internet availability</li>
+ </ul>
+ </li>
+ </ul>
 
 
 ##  Key Features 
