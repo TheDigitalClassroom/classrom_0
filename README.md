@@ -1,4 +1,3 @@
-<h1>My Class Room</h1>
 
 ## Overview
 <b>"My Classroom"</b> is a software solution to simplify the complexities of managing the daily activities in an educational institute like schools, colleges. This app is one stop solution for teachers, school admins to work together with students to provide seamless learning experience. "My Classroom" provides various features to manage daily activities like attendance, assignments, communication/leaning assistance etc. all accessible using common dashboard in the app. Considering internet availability challenges across India the app can be used in offline and online mode.
